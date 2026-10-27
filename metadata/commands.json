@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/smartimport.lsp",
+    "commands": [
+      "SMARTIMPORT"
+    ],
+    "title": "PDF 底圖與填滿匯入",
+    "category": "匯入與詳圖",
+    "manual": "README.md"
+  }
+]

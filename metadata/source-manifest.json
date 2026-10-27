@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/smartimport.lsp",
+      "bytes": 1395,
+      "sha256": "5c8f2bbbe48364475fc11accfce1d69281c38b1674cb2649bd4bfaca75abd881",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "SMARTIMPORT",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}
